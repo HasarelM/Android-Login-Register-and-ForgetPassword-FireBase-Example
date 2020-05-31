@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "506428766697",
+    "firebase_url": "https://loginapp-fe8f3.firebaseio.com",
+    "project_id": "loginapp-fe8f3",
+    "storage_bucket": "loginapp-fe8f3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:506428766697:android:8fc27b0f9c015e07d4f378",
+        "android_client_info": {
+          "package_name": "com.sample.hasarel.firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "506428766697-8q1001afi6b4ralqsgc1flda46h9dgke.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.sample.hasarel.firebase",
+            "certificate_hash": "77d6fe17dea2d99fe4f2042f7bebe361bf22b0c6"
+          }
+        },
+        {
+          "client_id": "506428766697-v1u932p72hmu9iu2msss87c04leiojlo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAbd6wYnkkdAI0olWWoVYEmSoxdxU_DyCc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "506428766697-v1u932p72hmu9iu2msss87c04leiojlo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
